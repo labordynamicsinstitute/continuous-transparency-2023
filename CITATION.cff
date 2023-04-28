@@ -5,7 +5,11 @@ cff-version: 1.2.0
 title: >-
   Continuous Transparency and Reproducibility in Academic Publications
 message: Use this citation when referencing the presentation
-type: dataset
+type: presentation
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7875797 
+    description: DOI 
 authors:
   - given-names: Lars
     family-names: Vilhuber
