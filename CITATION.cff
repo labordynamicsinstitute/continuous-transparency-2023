@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Continuous Transparency and Reproducibility in Academic Publications
+message: Use this citation when referencing the presentation
+type: dataset
+authors:
+  - given-names: Lars
+    family-names: Vilhuber
+    email: lars.vilhuber@cornell.edu
+    affiliation: Cornell University
+    orcid: 'https://orcid.org/0000-0001-5733-8932'
+repository-code: >-
+  https://github.com/labordynamicsinstitute/continuous-transparency-2023
+abstract: >-
+  Part of the "Symposium Open Science - Forschungstransparenz in den Wirtschaftswissenschaften" https://www.zbw.eu/de/ueber-zbw/veranstaltungen/symposium-open-science-forschungstransparenz-in-den-wirtschaftswissenschaften , in German (as "Kontinuierliche Transparenz und Reproduzierbarkeit bei akademischen Publikationen: Ansätze und Techniken")
+license: CC-BY-4.0
+date-released: '2023-04-27'

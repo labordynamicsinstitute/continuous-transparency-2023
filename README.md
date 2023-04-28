@@ -1,0 +1,3 @@
+# Continuous Transparency and Reproducibility in Academic Publications
+  
+Part of the [Symposium Open Science - Forschungstransparenz in den Wirtschaftswissenschaften](https://www.zbw.eu/de/ueber-zbw/veranstaltungen/symposium-open-science-forschungstransparenz-in-den-wirtschaftswissenschaften), in German (as "Kontinuierliche Transparenz und Reproduzierbarkeit bei akademischen Publikationen: Ansätze und Techniken")
